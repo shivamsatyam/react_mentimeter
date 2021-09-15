@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 10px;
+}
+
+
+.navbar_logo{
+    
+}
+
+.navbar_logo img{
+    width:150px;
+}
+
+
+.navbar_data{
+        display: flex;
+}
+
+.navbar_data_grid{
+        margin: 9px 8px;
+    color: black;
+    font-weight: 600;
+}
+
+.navbar_button button {
+    margin: 0px 6px;
+    padding: 6px;
+    font-size: 1.12rem;
+    cursor:pointer;
+}
+
+.navbar_button_login{
+    border: navajowhite;
+    background: transparent;
+}
+
+.navbar_button_signup{
+        border: navajowhite;
+    background-color: #5959ff;
+    color: white;
+}
