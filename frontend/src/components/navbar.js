@@ -16,7 +16,7 @@ function Navbar() {
                 <div className="navbar_data_grid">blog</div>
             </div>
             <div className="navbar_button">
-                <NavLink to="/login">Logni</NavLink>
+                <NavLink to="/login">Login</NavLink>
                 <NavLink to="/signup"> <button className="navbar_button_signup">Sign up</button></NavLink>
             </div>
 

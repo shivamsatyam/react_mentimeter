@@ -1,0 +1,39 @@
+.login{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:100vw;
+    height:100vh;
+}
+
+.login_form{
+    text-align: center;
+}
+
+.form_input{
+    width: 100%;
+    margin-top:12px !important;
+   
+}
+
+
+.login_submit{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 23px;
+}
+
+
+.login_small{
+    margin-top: 12px;
+}
+
+
+.login_logo{
+    margin: 12px auto;
+}
+
+
+.login_logo img{
+    width:150px;
+}
